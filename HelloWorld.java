@@ -1,4 +1,4 @@
-// learning vsc
+// learning VCS
 
 public class HelloWorld {
 
